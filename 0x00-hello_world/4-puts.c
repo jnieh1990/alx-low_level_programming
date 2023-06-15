@@ -1,8 +1,8 @@
 #include<stdio.h>
-/*
- * *
+/**
  * C program to write a string
  * 
+ * Return: 0
  */
 int main(void)
 {
