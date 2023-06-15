@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
- * C program to write a string
- * 
- * Return: 0
+ * main - The entry point of the program
+ *
+ * Return: always 0, always true
  */
 int main(void)
 {
