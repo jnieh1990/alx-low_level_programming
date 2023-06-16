@@ -6,8 +6,7 @@
  *
  * Description : Function that shows a message
  *
- * Return : always return 1
- *
+ * Return : Always 1 (success)
  */
 int main(void)
 {
