@@ -2,7 +2,9 @@
 #include <stdio.h>
 
 /**
- * main - Entrée du programme
+ * main - Entry point
+ *
+ * Description : Function that shows a message
  *
  * Return : always return 1
  *
