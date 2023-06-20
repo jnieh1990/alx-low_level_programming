@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * main - entry point
  *
@@ -6,17 +8,16 @@
  * Return: always true - 0
  */
 
-#include <stdio.h>
-#include <stdlib.h>
 int main(void)
 	{
-	char _putchar [12] = {'_', 'p', 'u', 't', 'c', 'h', 'a', 'r', '\n'};
-	int i = 0;
-
-	while (_putchar [i] != '\n')
-	{
-		putchar (_putchar [i]);
-		i++;
-	}
-	exit(0);
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
+	return(0);
 }
