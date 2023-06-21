@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * void print_to_98 - to 98
+ * print_to_98 - to 98
  *
  * @n: int
  *
