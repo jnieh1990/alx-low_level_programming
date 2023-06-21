@@ -1,19 +1,20 @@
 #include "main.h"
 
 /**
- * main - entry point
+ * print_alphabet - entry point
  *
- * Description: write putchar
+ * Description: write alphabet
  *
- * Return: always true - 0
+ * Return: nothing
  */
 
 void print_alphabet(void)
 	{
 	char c;
+
 	for (c = 97; c <= 122; c++)
-		{	
-			_putchar(c);
-		}
+	{
+		_putchar(c);
+	}
 	_putchar('\n');
 	}
