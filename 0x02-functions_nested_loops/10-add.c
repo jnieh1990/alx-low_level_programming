@@ -1,13 +1,20 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * add - add 2 ints
  *
- * Return: Always 0.
+ * @a: a
+ *
+ * @b: b
+ *
+ * Description: add
+ *
+ * Return: c.
  */
 int add(int a, int b)
 {
-        int c;
+	int c;
+
 	c = a + b;
-        return (c);
+	return (c);
 }
