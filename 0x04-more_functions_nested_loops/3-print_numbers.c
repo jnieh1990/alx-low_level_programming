@@ -1,12 +1,12 @@
 /**
- * print_alphabet - entry point
+ * print_numbers - entry point
  *
  * Description: write alphabet
  *
  * Return: nothing
  */
 
-void print_alphabet(void)
+void print_numbers(void)
 	{
 		char c;
 
