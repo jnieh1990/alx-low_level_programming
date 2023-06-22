@@ -17,7 +17,7 @@ void more_numbers(void)
 	{
 		for (c = 0; c <= 14; c++)
 		{
-			if (i < 10)
+			if (i > 10)
 			{
 				_putchar('0' + (c / 10));
 			}
