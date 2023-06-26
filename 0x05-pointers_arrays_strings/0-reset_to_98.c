@@ -3,7 +3,7 @@
  *
  * Description: deferencement
  *
- * &n: int
+ * @n: int
  *
  * Return: void
  */
