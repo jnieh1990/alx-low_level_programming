@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _puts2 - reset
+ * puts2 - reset
  *
  * Description: deferencement
  *
@@ -9,7 +9,7 @@
  * Return: void
  */
 
-void _puts2(char *str)
+void puts2(char *str)
 {
 	while (*str != '\0')
 	{
