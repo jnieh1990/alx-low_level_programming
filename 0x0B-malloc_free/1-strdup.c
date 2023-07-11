@@ -1,4 +1,4 @@
-#include <stdio.h>	
+#include <stdio.h>
 #include <stdlib.h>
 #include "main.h"
 
@@ -30,7 +30,5 @@ char *_strdup(char *str)
 	for (j = 0; str[j]; j++)
 		dup[j] = str[j];
 
-	return (dup);	
+	return (dup);
 }
-
-
