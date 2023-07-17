@@ -14,7 +14,7 @@ void print_dog(struct dog *d)
 	if (d->name == NULL)
 		d->name = "(nil)";
 	if (d->age == NULL)
-                d->age = "(nil)";
+		d->age = 0;
 	if (d->owner == NULL)
 		d->owner = "(nil)";
 
