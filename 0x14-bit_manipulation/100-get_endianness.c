@@ -1,7 +1,3 @@
-100-get_endianness.c CODE
-
-
-
 #include "main.h"
 
 /**
